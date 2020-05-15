@@ -4,7 +4,19 @@
 	{
 		"name": "Process All Remaining Files and Folders",
 		"stepType": 1,
+<<<<<<< Updated upstream
 		"uuidString": "779AE166-3E21-4BD3-892A-3B05BED63018"
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+		"uuidString": "D62CEF96-7AF0-45FD-8963-309B5C0B6721"
+=======
+		"uuidString": "779AE166-3E21-4BD3-892A-3B05BED63018"
+>>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
+=======
+		"uuidString": "779AE166-3E21-4BD3-892A-3B05BED63018"
+>>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
+>>>>>>> Stashed changes
 		}
 	],
 "creatorBuild": "32001",
@@ -92,6 +104,14 @@
 		"opt": 0,
 		"q": 100
 		},
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
+>>>>>>> Stashed changes
 	"/deploy/img/section-4/hero.jpg": {
 		"ft": 16384,
 		"iS": 247748,
@@ -103,6 +123,13 @@
 		"opt": 0,
 		"q": 100
 		},
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+>>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
+=======
+>>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
+>>>>>>> Stashed changes
 	"/deploy/img/section-5/gallery-1.jpg": {
 		"ft": 16384,
 		"iS": 163011,
@@ -177,6 +204,26 @@
 		"oAP": "/deploy/index.html",
 		"oF": 0
 		},
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+	"/deploy/js/scripts-min-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/deploy/js/scripts-min-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+=======
+>>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
+=======
+>>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
+>>>>>>> Stashed changes
 	"/deploy/js/scripts-min.js": {
 		"bF": 0,
 		"ft": 64,
@@ -212,6 +259,26 @@
 		"oAP": "/deploy/index.html",
 		"oF": 2
 		},
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+	"/dev/js/scripts-min.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/dev/js/scripts-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+=======
+>>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
+=======
+>>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
+>>>>>>> Stashed changes
 	"/dev/js/scripts.js": {
 		"bF": 0,
 		"ft": 64,
@@ -477,10 +544,29 @@
 "manualImportLinks": {
 	},
 "projectAttributes": {
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+	"creationDate": 609808124.23544502,
+	"displayValue": "machine-learning",
+	"displayValueWasSetByUser": 0,
+	"iconImageName": "brackets-pink",
+=======
+=======
+>>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
+>>>>>>> Stashed changes
 	"creationDate": 609804826.68717396,
 	"displayValue": "machine-learning",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets-silver",
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+>>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
+=======
+>>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
+>>>>>>> Stashed changes
 	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
@@ -1638,7 +1724,19 @@
 			"optionString": "{'skipBlankLines': false, 'ignoreComments': false}"
 			},
 		"no-undef": {
+<<<<<<< Updated upstream
 			"active": 0,
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+			"active": 1,
+=======
+			"active": 0,
+>>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
+=======
+			"active": 0,
+>>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
+>>>>>>> Stashed changes
 			"optionString": "{'typeof': false}"
 			},
 		"no-undef-init": {

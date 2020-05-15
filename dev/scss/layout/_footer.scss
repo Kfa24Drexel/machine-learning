@@ -8,6 +8,19 @@ footer {
     grid-template-columns: 10px auto 10px;
     padding: 45px 0 40px;
     text-align: center;
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+    >div {
+        grid-area: footer;
+        h1 {
+            font-size: rem-calc(20);
+            margin-bottom: 10px;
+=======
+=======
+>>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
+>>>>>>> Stashed changes
 
     >div {
         grid-area: footer;
@@ -16,10 +29,30 @@ footer {
             font-size: rem-calc(20);
             margin-bottom: 10px;
 
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+>>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
+=======
+>>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
+>>>>>>> Stashed changes
             span {
                 color: $white;
             }
         }
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+        ul {
+            display: flex;
+            justify-content: center;
+            li {
+                margin: 0 10px;
+=======
+=======
+>>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
+>>>>>>> Stashed changes
 
         ul {
             display: flex;
@@ -28,13 +61,31 @@ footer {
             li {
                 margin: 0 10px;
 
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+>>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
+=======
+>>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
+>>>>>>> Stashed changes
                 a:link,
                 a:visited {
                     color: $black;
                     font-size: rem-calc(30);
                     transition: 0.25s;
                 }
+<<<<<<< Updated upstream
 
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
+=======
+
+>>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
+>>>>>>> Stashed changes
                 a:hover,
                 a:active {
                     color: $white;

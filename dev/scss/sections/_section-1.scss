@@ -3,6 +3,23 @@
 ============= */
 
 #section-1 {
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+    background-image: url('../img/Section-1/hero.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 360px;
+
+    @include md {
+        height: 683px;
+    }
+
+=======
+=======
+>>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
+>>>>>>> Stashed changes
   background-image: url('../img/section-1/hero.jpg');
   background-position: center;
   background-size: cover;
@@ -11,4 +28,11 @@
   @include md {
     height: 683px;
   }
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+>>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
+=======
+>>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
+>>>>>>> Stashed changes
 }
