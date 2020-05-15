@@ -492,8 +492,11 @@ footer {
 ============= */
 #section-1 {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   background-image: url("../img/section-1/hero.jpg");
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
 <<<<<<< HEAD
   background-image: url("../img/Section-1/hero.jpg");
@@ -503,6 +506,9 @@ footer {
 =======
   background-image: url("../img/section-1/hero.jpg");
 >>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   background-position: center;
   background-size: cover;
@@ -585,8 +591,11 @@ footer {
       #section-2 > div #section-2-last {
         display: grid;
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         grid-template-columns: 10% auto 10%;
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
 <<<<<<< HEAD
         grid-template-columns: 20% auto 20%;
@@ -596,6 +605,9 @@ footer {
 =======
         grid-template-columns: 10% auto 10%;
 >>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         grid-template-areas: ". section-2-last ."; } }
     @media (min-width: 992px) {
@@ -734,7 +746,10 @@ footer {
   @media (min-width: 768px) {
     #section-5 {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
 <<<<<<< HEAD
       padding: 54px; } }
@@ -744,6 +759,9 @@ footer {
 =======
 =======
 >>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       padding: 54px 0; } }
   @media (min-width: 992px) {
@@ -753,10 +771,13 @@ footer {
     #section-5 {
       grid-template-columns: auto 1200px auto; } }
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   #section-5 ul {
     display: grid;
     grid-area: section-5;
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
 >>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
   #section-5 ul {
@@ -770,6 +791,9 @@ footer {
     display: grid;
     grid-area: section-5;
 >>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     grid-gap: 20px;
     grid-template-areas: "gallery-7" "gallery-1" "gallery-1" "gallery-6" "gallery-3";
@@ -788,7 +812,10 @@ footer {
       background-size: cover; }
     #section-5 ul #gallery-1 {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
 <<<<<<< HEAD
       background-image: url(../img/section-5/gallery-1.jpg);
@@ -798,24 +825,36 @@ footer {
 =======
 =======
 >>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       background-image: url("../img/section-5/gallery-1.jpg");
       grid-area: gallery-1; }
     #section-5 ul #gallery-2 {
       background-image: url("../img/section-5/gallery-2.jpg"); }
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
 >>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
 =======
 >>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       @media (min-width: 992px) {
         #section-5 ul #gallery-2 {
           grid-area: gallery-2; } }
     #section-5 ul #gallery-3 {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
 <<<<<<< HEAD
       background-image: url(../img/section-5/gallery-3.jpg);
@@ -826,6 +865,9 @@ footer {
 =======
 =======
 >>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       background-image: url("../img/section-5/gallery-3.jpg");
       background-position: center top;
@@ -833,19 +875,28 @@ footer {
     #section-5 ul #gallery-4 {
       background-image: url("../img/section-5/gallery-4.jpg"); }
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
 >>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
 =======
 >>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       @media (min-width: 992px) {
         #section-5 ul #gallery-4 {
           grid-area: gallery-4; } }
     #section-5 ul #gallery-5 {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       background-image: url("../img/section-5/gallery-5.jpg"); }
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
 <<<<<<< HEAD
       background-image: url(../img/section-5/gallery-5.jpg); }
@@ -855,14 +906,20 @@ footer {
 =======
       background-image: url("../img/section-5/gallery-5.jpg"); }
 >>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       @media (min-width: 768px) {
         #section-5 ul #gallery-5 {
           grid-area: gallery-5; } }
     #section-5 ul #gallery-6 {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       background-image: url("../img/section-5/gallery-6.jpg");
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
 <<<<<<< HEAD
       background-image: url(../img/section-5/gallery-6.jpg);
@@ -872,6 +929,9 @@ footer {
 =======
       background-image: url("../img/section-5/gallery-6.jpg");
 >>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       grid-area: gallery-6; }
     #section-5 ul #gallery-7 {

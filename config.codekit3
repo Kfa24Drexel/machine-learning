@@ -5,8 +5,11 @@
 		"name": "Process All Remaining Files and Folders",
 		"stepType": 1,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 		"uuidString": "779AE166-3E21-4BD3-892A-3B05BED63018"
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
 <<<<<<< HEAD
 		"uuidString": "D62CEF96-7AF0-45FD-8963-309B5C0B6721"
@@ -16,6 +19,9 @@
 =======
 		"uuidString": "779AE166-3E21-4BD3-892A-3B05BED63018"
 >>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 		}
 	],
@@ -105,12 +111,18 @@
 		"q": 100
 		},
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
 =======
 >>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 	"/deploy/img/section-4/hero.jpg": {
 		"ft": 16384,
@@ -124,11 +136,17 @@
 		"q": 100
 		},
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
 >>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
 =======
 >>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 	"/deploy/img/section-5/gallery-1.jpg": {
 		"ft": 16384,
@@ -205,7 +223,10 @@
 		"oF": 0
 		},
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
 <<<<<<< HEAD
 	"/deploy/js/scripts-min-min.js": {
@@ -223,6 +244,9 @@
 >>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
 =======
 >>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 	"/deploy/js/scripts-min.js": {
 		"bF": 0,
@@ -260,7 +284,10 @@
 		"oF": 2
 		},
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
 <<<<<<< HEAD
 	"/dev/js/scripts-min.js": {
@@ -278,6 +305,9 @@
 >>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
 =======
 >>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 	"/dev/js/scripts.js": {
 		"bF": 0,
@@ -545,7 +575,10 @@
 	},
 "projectAttributes": {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
 <<<<<<< HEAD
 	"creationDate": 609808124.23544502,
@@ -555,17 +588,26 @@
 =======
 =======
 >>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 	"creationDate": 609804826.68717396,
 	"displayValue": "machine-learning",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets-silver",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
 >>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
 =======
 >>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 	"iconImageWasSetByUser": 0
 	},
@@ -1725,8 +1767,11 @@
 			},
 		"no-undef": {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 			"active": 0,
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
 <<<<<<< HEAD
 			"active": 1,
@@ -1736,6 +1781,9 @@
 =======
 			"active": 0,
 >>>>>>> 031b9a4688bdf05a9a47a81be86ca32256cbddb9
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 			"optionString": "{'typeof': false}"
 			},
